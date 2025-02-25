@@ -1,0 +1,22 @@
+# .gitignore
+
+# personal environment configuration files (e.g., environment variables)
+.env
+*.env
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# system generated hidden files (e.g., macOS .DS_Store, Windows Thumbs.db)
+.DS_Store
+Thumbs.db
+
+# backup and temporary files
+*~
+*.bak
+*.tmp
+
+
+# Photoshop files (e.g., for image editing/demos)
+*.psd
